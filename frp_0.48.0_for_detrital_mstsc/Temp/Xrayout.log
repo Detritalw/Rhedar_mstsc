@@ -1,0 +1,6 @@
+2023/05/01 21:27:29 [I] [service.go:299] [d73b608001b8850c] login to server success, get run id [d73b608001b8850c], server udp port [0]
+2023/05/01 21:27:29 [I] [proxy_manager.go:142] [d73b608001b8850c] proxy added: [mstsc]
+2023/05/01 21:27:29 [I] [control.go:172] [d73b608001b8850c] [mstsc] start proxy success
+2023/05/01 21:27:48 [I] [service.go:299] [dcf01169ee692ccd] login to server success, get run id [dcf01169ee692ccd], server udp port [0]
+2023/05/01 21:27:48 [I] [proxy_manager.go:142] [dcf01169ee692ccd] proxy added: [mstsc]
+2023/05/01 21:27:48 [I] [control.go:172] [dcf01169ee692ccd] [mstsc] start proxy success
